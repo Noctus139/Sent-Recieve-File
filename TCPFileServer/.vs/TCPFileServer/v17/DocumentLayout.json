@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E70EC5-A36B-4604-AEB7-63C30D651A4C}|TCPFileServer\\TCPFileServer.csproj|D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\tcpfileserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E70EC5-A36B-4604-AEB7-63C30D651A4C}|TCPFileServer\\TCPFileServer.csproj|solutionrelative:tcpfileserver\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E70EC5-A36B-4604-AEB7-63C30D651A4C}|TCPFileServer\\TCPFileServer.csproj|d:\\yoga\\kuliah\\semester 5\\jaringan\\sent recieve file\\tcpfileserver\\tcpfileserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E70EC5-A36B-4604-AEB7-63C30D651A4C}|TCPFileServer\\TCPFileServer.csproj|solutionrelative:tcpfileserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E70EC5-A36B-4604-AEB7-63C30D651A4C}|TCPFileServer\\TCPFileServer.csproj|D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\tcpfileserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4E70EC5-A36B-4604-AEB7-63C30D651A4C}|TCPFileServer\\TCPFileServer.csproj|solutionrelative:tcpfileserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\TCPFileServer\\Form1.cs",
+              "RelativeDocumentMoniker": "TCPFileServer\\Form1.cs",
+              "ToolTip": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\TCPFileServer\\Form1.cs",
+              "RelativeToolTip": "TCPFileServer\\Form1.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwGcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:15:27.964Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\TCPFileServer\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TCPFileServer\\Form1.Designer.cs",
+              "ToolTip": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\TCPFileServer\\Form1.Designer.cs",
+              "RelativeToolTip": "TCPFileServer\\Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:15:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\TCPFileServer\\Form1.cs",
+              "RelativeDocumentMoniker": "TCPFileServer\\Form1.cs",
+              "ToolTip": "D:\\Yoga\\Kuliah\\Semester 5\\Jaringan\\Sent Recieve File\\TCPFileServer\\TCPFileServer\\Form1.cs [Design]",
+              "RelativeToolTip": "TCPFileServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:14:09.799Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

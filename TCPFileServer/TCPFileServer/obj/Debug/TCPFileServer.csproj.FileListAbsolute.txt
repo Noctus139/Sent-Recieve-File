@@ -1,0 +1,20 @@
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\bin\Debug\TCPFileServer.exe.config
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\bin\Debug\TCPFileServer.exe
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\bin\Debug\TCPFileServer.pdb
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.csproj.AssemblyReference.cache
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.Form1.resources
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.Properties.Resources.resources
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.csproj.GenerateResource.cache
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.csproj.CoreCompileInputs.cache
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.exe
+D:\Yoga\Kuliah\Semester 5\Jaringan\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.pdb
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\bin\Debug\TCPFileServer.exe.config
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\bin\Debug\TCPFileServer.exe
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\bin\Debug\TCPFileServer.pdb
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.csproj.AssemblyReference.cache
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.Form1.resources
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.Properties.Resources.resources
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.csproj.GenerateResource.cache
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.csproj.CoreCompileInputs.cache
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.exe
+D:\Yoga\Kuliah\Semester 5\Jaringan\Sent Recieve File\TCPFileServer\TCPFileServer\obj\Debug\TCPFileServer.pdb
